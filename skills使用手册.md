@@ -21,3 +21,4 @@
 | init | 初始化 CLAUDE.md | `/init` 或 "初始化项目文档" 或 "创建项目文档" 或 "生成CLAUDE.md" |
 | review | 审查 pull request | `/review` 或 "帮我审查这个PR" 或 "看看这个PR有什么问题" 或 "审查一下这个pull request" |
 | security-review | 安全审查 | `/security-review` 或 "做一个安全审查" 或 "检查安全漏洞" 或 "审查一下有没有安全问题" |
+| skill-creator | 创建、修改和优化 skills | `/skill-creator` 或 "帮我创建一个新skill" 或 "优化这个skill的描述" 或 "测试这个skill的性能" 或 "编辑现有的skill" |
